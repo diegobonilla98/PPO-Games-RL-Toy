@@ -1,0 +1,15 @@
+/flappy_gameplay.mp4
+/flappy_gameplay_better.mp4
+/flappy_gameplay_much_better.mp4
+/ppo_flappy.pth
+/ppo_flappy_rewards.npy
+/ppo_simple_snake.pth
+/ppo_simple_snake_optim.pth
+/ppo_snake.pth
+/ppo_snake_losses.npy
+/ppo_snake_optim.pth
+/ppo_snake_rewards.npy
+/ppo_snake_simple_rewards.npy
+/snake_gameplay_20250305-123437.mp4
+/snake_gameplay_warping.mp4
+/__pycache__
